@@ -1,4 +1,4 @@
-# PowerBI Portfolio 
+# Power BI Portfolio 
 
 
 ## Source Data: Data Professional Survey 
